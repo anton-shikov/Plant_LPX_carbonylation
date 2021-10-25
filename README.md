@@ -14,7 +14,7 @@ This repository contains scripts used for statistical analysis of the data for t
 Figures are available in the <i> Pics </i> directory. For the description please consult the Results section of the article.
 
 ## Supplementary tables
-Supplementary tables are available in the <i> Supplementary_data</i> directory. The description of the tables is embedded into the Exel table.
+Supplementary tables are available in the <i> Supplementary_data </i> directory. The description of the tables is embedded into the Exel table.
 
 ## Scripts
 Scripts are available in the <i>Scripts</i> directory.
