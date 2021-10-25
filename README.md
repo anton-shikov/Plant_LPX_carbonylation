@@ -31,9 +31,9 @@ Raw data is available in the <i>Raw_data/</i> directory.
 <ul>
 <li> <em> Agents </em> - the directory contains data for treatments with oxydative agents; </li> 
   </li><em> Reaeration </em> - the directory contains data for treatments with anoxic conditions followed by re-aeration.</li>
+ </ul>
+ 
   <li> <em> Lipid_peroxidation</em> - the directory contains spectrophotometrically measured lipid peroxidation data;</li> 
-</ul>
-
 <ul>
 <li> <em> Agents </em> - the directory contains data for treatments with oxydative agents; </li>
   </li><em> Reaeration </em> - the directory contains data for treatments with anoxic conditions followed by re-aeration.</li>
