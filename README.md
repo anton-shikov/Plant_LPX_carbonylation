@@ -4,8 +4,8 @@
 A repository with working scripts for Acta Physiologiae Plantarum 2021 paper.
 
 
-<img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/FIgure_5_2_blots.tif">
-<img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/Figure_4.tiff">
+<img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/FIgure_5_2_blots.png">
+<img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/Figure_4.png">
 
 ## Contents 
 This repository contains scripts used for statistical analysis of the data for the manuscript and raw data as well. Please consult the Methods section in the paper for extra details. 
