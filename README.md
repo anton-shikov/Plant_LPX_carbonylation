@@ -21,7 +21,7 @@ Supplementary tables are available in the <i> Supplementary_data/ </i> directory
 Scripts are available in the <i>Scripts/</i> directory.
 <ul>
   <li><em> ROS_stat_clean.R</em> - evaluates difference between treatments and plants using pairwise Wilcox test and Kruskal-Wallis test on the basis of the data of lipid peroxidation and protein carbonylation measured spectrophotometrically;</li>
-  <li><em> WB_clean.R</em> - evaluates difference between treatments and plants using pairwise Wilcox test and Kruskal-Wallis test using the on the basis of relative protein carbonylation taken from Western blots.</li>
+  <li><em> WB_clean.R</em> - evaluates difference between treatments and plants using pairwise Wilcox test and Kruskal-Wallis test using on the basis of relative protein carbonylation taken from Western blots.</li>
 </ul>
 
 ## Raw data
