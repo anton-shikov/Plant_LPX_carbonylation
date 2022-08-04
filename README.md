@@ -9,7 +9,8 @@ A repository with working scripts for Acta Physiologiae Plantarum 2021 paper.
 <img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/Figure_4.png" width="533" height="366">
 
 ## Contents 
-This repository contains scripts used for statistical analysis of the data for the manuscript and raw data as well. Please consult the Methods section in the paper for extra details. 
+This repository contains scripts used for statistical analysis of the data for the manuscript and raw data as well. Please consult the Methods section in the paper for extra details:
+Shikov A.E., Lastochkin V.V., Chirkova T.V., Mukhina Z.M., Yemelyanov V.V. Post-anoxic oxidative injury is more severe than oxidative stress induced by chemical agents in wheat and rice plants // Acta Physiologiae Plantarum. 2022. Vol. 44, No. 9. 90. https://doi.org/10.1007/s11738-022-03429-z (Published online 29 July 2022)
 
 ## Figures
 Figures are available in the <i> Pics/ </i> directory. For the description please consult the Results section of the article.
