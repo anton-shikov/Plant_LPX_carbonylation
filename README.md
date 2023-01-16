@@ -2,7 +2,7 @@
 
 
 # Post-anoxic oxidative injury is more severe than oxidative stress induced by chemical agents in wheat and rice plants.
-A repository with working scripts for Acta Physiologiae Plantarum 2021 paper.
+The repository with working scripts for Acta Physiologiae Plantarum 2021 paper.
 
 
 <img src="https://github.com/anton-shikov/Plant_LPX_carbonylation/blob/main/Pics/FIgure_5_2_blots.png" width="533" height="266">
